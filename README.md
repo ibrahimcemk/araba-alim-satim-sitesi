@@ -1,1 +1,1 @@
-With this project, we are taking a small step to learn how to make a login, registration and forgot password page with React and Javascript and connect it to the backend.
+This Project is the Beginning of the Car Buying Site, Together with the project, we are taking a small step to learn how to make a Login, Registration and Forgot Password Page with React and Javascript and connect it to the Backend. 
